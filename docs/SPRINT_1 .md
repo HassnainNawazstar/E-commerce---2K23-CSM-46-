@@ -1,12 +1,5 @@
 # Sprint 1: Architecture & Scope Definition
 
-**Course:** E-Commerce SDLC  
-**Project:** ShelfLife  
-**Sprint:** 1 — Planning  
-**Roll Number:** 2K23/CSM/46
-
----
-
 ## 1. Target Audience & Market Focus
 
 ### Primary Persona
