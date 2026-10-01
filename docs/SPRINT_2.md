@@ -34,7 +34,6 @@ Sprint 2 keeps Node.js/Express.js/PostgreSQL and extends the Sprint 1 entities i
 ## 3. Updated ERD and Data Dictionary
 
 ### Mermaid ERD
-
 ```mermaid
 erDiagram
     USERS ||--|| CARTS : owns
