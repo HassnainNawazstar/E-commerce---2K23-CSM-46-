@@ -80,7 +80,7 @@ erDiagram
     VARIANTS {
         SERIAL id PK
         INTEGER product_id FK
-        JSONB option_values
+        string option_values
         TIMESTAMPTZ created_at
     }
     SKUS {
