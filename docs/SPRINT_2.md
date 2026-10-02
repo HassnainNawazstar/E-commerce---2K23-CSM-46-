@@ -104,12 +104,12 @@ erDiagram
     }
     SPECIFICATIONS {
         SERIAL id PK
-        INTEGER product_id FK UK
+        INTEGER product_id FK, UK
         string data
     }
     CARTS {
         SERIAL id PK
-        INTEGER user_id FK UK
+        INTEGER user_id FK, UK
         TIMESTAMPTZ created_at
     }
     CART_ITEMS {
