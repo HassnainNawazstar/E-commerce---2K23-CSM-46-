@@ -105,7 +105,7 @@ erDiagram
     SPECIFICATIONS {
         SERIAL id PK
         INTEGER product_id FK UK
-        JSONB data
+        string data
     }
     CARTS {
         SERIAL id PK
